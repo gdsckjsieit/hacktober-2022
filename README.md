@@ -16,11 +16,10 @@ Keep an open mind! Improving documentation, solving problem statements, or writi
 
 > GDSC KJSIEIT is an open source project and we love to receive contributions from our community — you! There are many ways to contribute, from writing tutorials or blog posts, improving the documentation, submitting bug reports and feature requests or writing code which can be incorporated into GDSC KJSIEIT itself.
 
-[source: [Elasticsearch](https://github.com/elastic/elasticsearch/blob/master/CONTRIBUTING.md)] **Need more inspiration?** [1] [Devise](https://github.com/plataformatec/devise/wiki/Contributing) [2] [Geocoder](https://github.com/alexreisner/geocoder#known-issues) (“known issues”)
 
-### Explain contributions you are NOT looking for (if any).
+### Contributions we are NOT looking for.
 
-Again, defining this up front means less work for you. If someone ignores your guide and submits something you don’t want, you can simply close it and point to your policy.
+Again, defining this up front means less work for you. If someone ignores our guide and submits something you don’t want, you can simply close it and point to your policy.
 
 > Please, don't use the issue tracker for [support questions]. Check whether the #pocoo IRC channel on Freenode can help with your issue. If your problem is not strictly Werkzeug or Flask specific, #python is generally more active. Stack Overflow is also worth considering.
 
