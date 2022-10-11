@@ -19,16 +19,12 @@ Keep an open mind! Improving documentation, solving problem statements, or writi
 
 ### Contributions we are NOT looking for.
 
-Again, defining this up front means less work for you. If someone ignores our guide and submits something you don’t want, you can simply close it and point to your policy.
+Again, defining this up front means less work for you. If someone ignores our guide and submits something we don’t want, we can simply close it and point to your policy.
 
-> Please, don't use the issue tracker for [support questions]. Check whether the #pocoo IRC channel on Freenode can help with your issue. If your problem is not strictly Werkzeug or Flask specific, #python is generally more active. Stack Overflow is also worth considering.
-
-[source: [Flask](https://github.com/pallets/flask/blob/master/CONTRIBUTING.rst)] **Need more inspiration?** [1] [cucumber-ruby](https://github.com/cucumber/cucumber-ruby/blob/master/CONTRIBUTING.md#about-to-create-a-new-github-issue) [2] [Read the Docs](http://read-the-docs.readthedocs.org/en/latest/open-source-philosophy.html#unsupported)
+> Pull requests that we don't need will be labelled as invalid or spam.
 
 # Ground Rules
-### Set expectations for behavior (yours, and theirs).
-This includes not just how to communicate with others (being respectful, considerate, etc) but also technical responsibilities (importance of testing, project dependencies, etc). Mention and link to your code of conduct, if you have one.
-
+### Code Of Conduct 
 > Responsibilities
 > * Ensure cross-platform compatibility for every change that's accepted. Windows, Mac, Debian & Ubuntu Linux.
 > * Ensure that code that goes into core meets all requirements in this checklist: https://gist.github.com/audreyr/4feef90445b9680475f2
